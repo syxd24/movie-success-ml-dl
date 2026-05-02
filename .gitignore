@@ -1,0 +1,21 @@
+# IntelliJ / IDE files
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
